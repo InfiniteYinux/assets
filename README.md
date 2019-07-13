@@ -1,2 +1,2 @@
-# assets
-jsDeliver
+# CDN
+jsDeliver CDN
